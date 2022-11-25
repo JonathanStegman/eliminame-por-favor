@@ -1,0 +1,68 @@
+/*
+first #FF577F
+primary #FF884B
+ligth #F14A16
+special #FFF9B0
+extra #FF9F45
+plus #990000
+*/
+.first-txt {
+    color: #FF577F;
+}
+.primary-txt {
+    color: #FF884B;
+}
+.ligth-txt {
+    color: #FFD384;
+}
+.special-txt {
+    color: #FFF9B0;
+}
+.extra-txt {
+    color: #FF9F45;
+}
+.plus-txt {
+   color:  #990000; 
+}
+
+.bg-first {
+    background-color: #FF577F;
+}
+.bg-primary {
+    background-color: #FF884B;
+}
+.bg-ligth   {
+    background-color: #FFD384;
+}
+.bg-special {
+    background-color: #FFF9B0;
+}
+.bg-extra {
+    background-color: #FF9F45;
+}
+.bg-plus {
+    background-color: #990000;
+}
+.border-1 {
+    border-style: dashed;
+}
+.border-2 {
+    border-style: block;
+}
+.border-3 {
+    border-style: dotted ;
+}
+.text-cursive {
+    font-family: cursive;
+}
+.text-fatasy {
+    font-family: fantasy;
+}
+.text-mono {
+    font-family: monospace;
+}
+
+.ancla {
+    text-decoration: none;
+    color: #FF577F;
+}

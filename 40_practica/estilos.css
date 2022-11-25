@@ -1,0 +1,47 @@
+/*
+Colores de mi sitio web
+primary #383E56
+secondary #F69E7B
+ligth #EEDAD1
+info #D4B5B0
+*/
+
+.bg-primary {
+    background-color:#383E56 ;
+}
+.bg-secondary {
+    background-color:#F69E7B ;
+}
+.bg-ligth {
+    color: #EEDAD1;
+}
+.bg-info {
+    background-color: #D4B5B0;
+}
+.text-ligth {
+    color:#EEDAD1 ;
+}
+.text-primary {
+    color:  #383E56;
+}
+.text-secondary {
+    color:#F69E7B ;
+}
+.text-white {
+    color: #ffffff;
+}
+
+.text-center {
+    text-align: center;
+}
+.text-rigth {
+    text-align: right;
+}
+
+.with-100 {
+    width: 100px;
+}
+
+.with-200 {
+    width: 200px;
+}

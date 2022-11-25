@@ -1,0 +1,78 @@
+/*
+Colores disponibles!
+first #F9ED69
+secondary #F08A5D
+encuest #B83B5E
+next #6A2C70
+extra #90B77D
+*/
+.letter-curive  {
+    font-family: cursive;
+}
+.letter-two {
+    font-family: monospace;
+}
+.letter-Roman {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.first-txt {
+    color:#F9ED69 ;
+}
+.secondary-txt {
+    color: #F08A5D;
+}
+.encuest-txt {
+    color: #B83B5E;
+}
+.next-txt {
+    color: #6A2C70;
+}
+.extra-txt {
+    color: #EEE3CB;
+}
+
+.bg-first {
+    background-color: #F9ED69;
+}
+.bg-secondary {
+    background-color: #F08A5D;
+}
+.bg-encuest {
+    background-color: #B83B5E;
+}
+.bg-next {
+    background-color: #6A2C70;
+}
+.bg-extra {
+    background-color: #EEE3CB;
+}
+
+.size-35 {
+    font-size: 35px;
+}
+.size-20 {
+    font-size: 20px;
+}
+.size-15 {
+    font-size: 15px;
+}
+.border-1 {
+    border-style:dotted ;
+}
+.center-txt {
+    text-align: center;
+}
+
+.img {
+    width: 75%;
+    height: 65%;
+}
+
+.botonera  {
+    align-content: center;
+}
+
+.anclas {
+    text-decoration: none;
+}

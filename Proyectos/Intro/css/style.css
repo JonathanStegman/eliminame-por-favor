@@ -1,0 +1,169 @@
+/*
+1 #B7C4CF
+2 #D7C0AE
+3 #EEE3CB
+4 #967E76
+5 #ffffff
+6 #cf96eb
+*/
+
+.txt-1 {
+    color: #0E0D26;
+}
+
+.txt-2  {
+    color: #6863F2;
+}
+
+.txt-3 {
+    color: #809DF2;
+}
+
+.txt-4 {
+    color: #967e76;
+}
+
+.txt-5 {
+    color: #ffffff;
+}
+
+.bg-1 {
+    background-color: #0E0D26;
+}
+
+.bg-2 {
+    background-color: #6863F2;
+}
+
+.bg-3 {
+    background-color: #809DF2;
+}
+
+.bg-4 {
+    background-color: #967e76;
+}
+
+.bg-v {
+    background-color: #cf96eb;
+}
+
+
+.cursive {
+    font-family: cursive;
+}
+
+.Maite {
+    font-family: 'Silkscreen', cursiva;
+    font-weight: 700;
+}
+
+.none {
+    text-decoration: none;
+}
+
+.imagen_00 {
+    background-image: url("../assents/00_Maite.png"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_01 {
+    background-image: url("../assents/01_Maite.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_02 {
+    background-image: url("../assents/02_Maite.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_03 {
+    background-image: url("..//assents/03_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_04 {
+    background-image: url("..//assents/04_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+.imagen_05 {
+    background-image: url("..//assents/05_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_06 {
+    background-image: url("..//assents/06_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_07 {
+    background-image: url("..//assents/07_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_08 {
+    background-image: url("..//assents/08_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50rem;
+    width: 65%;
+}
+
+.imagen_09 {
+    background-image: url("..//assents/09_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_10 {
+    background-image: url("..//assents/10_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
+
+.imagen_11 {
+    background-image: url("..//assents/11_Maite.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    width: 65%;
+}
